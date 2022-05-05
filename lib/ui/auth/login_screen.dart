@@ -96,6 +96,8 @@ class _LoginScreenState extends State<LoginScreen> {
             ),
           ),
 
+
+
           Padding(
             padding: const EdgeInsets.fromLTRB(20.0, 50.0, 0.0, 0.0),
             child: SvgPicture.asset(closeImg, width: 18, height: 18),
